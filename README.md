@@ -138,7 +138,10 @@ visniv.html
 
 
 ## OUTPUT
-![alt text](<Screenshot (83).png>) ![alt text](<Screenshot (82).png>) ![alt text](<Screenshot (81).png>) ![alt text](<Screenshot (80).png>) ![alt text](<Screenshot (79).png>) ![alt text](<Screenshot (78).png>)
+<img width="828" height="909" alt="Screenshot 2026-02-23 113349" src="https://github.com/user-attachments/assets/ea1de9b7-0969-468d-8a34-7464602d436e" />
+<img width="825" height="931" alt="Screenshot 2026-02-23 113443" src="https://github.com/user-attachments/assets/3aad5a13-6bd4-446c-8c96-e731d9ab1e25" />
+<img width="825" height="913" alt="Screenshot 2026-02-23 113521" src="https://github.com/user-attachments/assets/8443f149-6f65-4792-85ae-895c0fef7cab" />
+
 
 
 
